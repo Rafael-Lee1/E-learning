@@ -1,3 +1,9 @@
 
 # E-learning
-Uma landing page interativa e moderna para comercialização de cursos online, desenvolvida com Next.js. O design responsivo destaca categorias de cursos, detalhes sobre instrutores e depoimentos de alunos, além de fornecer uma navegação rápida e fluida. A página também integra opções de chamada à ação, como inscrições, visualização de cursos populares e acesso facilitado a promoções e novidades. Ideal para atrair estudantes e promover educação de qualidade.
+Landing Page Interativa para Cursos Online - Desenvolvida com Next.js
+
+Uma landing page moderna e responsiva, criada para promover cursos online de forma eficiente. Desenvolvida com Next.js, a página oferece uma navegação rápida e fluida, destacando as principais categorias de cursos, informações detalhadas sobre instrutores e depoimentos de alunos. As opções de chamada à ação incluem inscrições diretas, visualização de cursos populares e acesso a promoções e novidades, incentivando a conversão e o engajamento.
+
+A integração com Tailwind CSS garante um design altamente customizável, enquanto o suporte a TypeScript traz robustez ao projeto. A estrutura foi planejada para ser intuitiva e otimizada para dispositivos móveis, garantindo uma experiência de usuário excepcional, seja em desktop ou mobile.
+
+Ideal para quem deseja atrair novos estudantes e oferecer uma plataforma de educação de alta qualidade e fácil acesso.
