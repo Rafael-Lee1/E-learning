@@ -5,12 +5,9 @@ const nextConfig = {
   swcMinify: true,
   productionBrowserSourceMaps: false,
   onDemandEntries: {
-    maxInactiveAge: 25 * 1000,
-    pagesBufferLength: 2,
+    maxInactiveAge: 15 * 1000,
+    pagesBufferLength: 1,
   },
-  experimental: {
-    optimizePackageImports: ["@heroicons/react", "@headlessui/react"],
-  }
 }
 
 module.exports = nextConfig
